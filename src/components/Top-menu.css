@@ -1,0 +1,21 @@
+.navbar-brand{
+    font-family: Jura;
+    font-size: 36px;
+    line-height: 130%;
+}
+.nav-link {
+
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 130%;
+
+}
+
+.nav-item  :hover {
+
+    font-weight: 700;
+
+}
+.navbar{
+    border-bottom-width: 1px;
+}
